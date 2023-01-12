@@ -11,7 +11,9 @@
     <modules>
         <module>fast-rpc-core</module>
         <module>fast-rpc-common</module>
-        <module>fast-rpc-sample</module>
+        <module>fast-rpc-api</module>
+        <module>fast-rpc-client</module>
+        <module>fast-rpc-server</module>
     </modules>
 
     <properties>
